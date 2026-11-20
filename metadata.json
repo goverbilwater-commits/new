@@ -1,0 +1,6 @@
+{
+  "name": "SoraniDub Studio",
+  "description": "AI-powered video dubbing studio that transcribes, translates, and mixes English videos into natural Kurdish Sorani using Gemini and Pawan.Krd TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
